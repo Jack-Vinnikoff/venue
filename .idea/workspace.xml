@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1e3115a-0aab-46ed-a5a3-36bc3d72e3ef" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header_footer/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header_footer/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header_footer/SideDrawer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header_footer/SideDrawer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -46,6 +43,15 @@
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -121,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/components/Header_footer/Header.jsx" />
         <option value="$PROJECT_DIR$/src/components/Header_footer/SideDrawer.jsx" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -150,11 +157,6 @@
             <path>
               <item name="venue" type="b2602c69:ProjectViewProjectNode" />
               <item name="venue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="venue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="venue" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="venue" type="b2602c69:ProjectViewProjectNode" />
@@ -220,12 +222,12 @@
       <updated>1536520118494</updated>
       <workItem from="1536520120871" duration="1772000" />
       <workItem from="1536525935050" duration="4789000" />
-      <workItem from="1536607870494" duration="5954000" />
+      <workItem from="1536607870494" duration="7006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12515000" />
+    <option name="totallyTimeSpent" value="13567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -386,6 +388,13 @@
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
